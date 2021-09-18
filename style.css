@@ -1,0 +1,28 @@
+.heading{
+    width: 100%;
+    text-align: left;
+   display: flex;
+}
+#h1{
+    font-size: 25px;
+    font-family: cursive;
+}
+#instruction{
+    margin-left: 1150px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: transparent;
+    border: 2px solid white;
+}
+canvas{
+    border: 3px solid white;
+    box-shadow: 10px 10px 10px skyblue;
+}
+body{
+    background-size: cover;
+    background-position: center;
+   
+}
+#start{
+    font-size: 25px;
+}
